@@ -8,6 +8,6 @@
 
 ✔ 👨‍💻Tecnologias Utilizadas
 
-- ✔ HTML
-- ✔ CSS
-- ✔ Javascript
+-  HTML
+-  CSS
+-  Javascript
