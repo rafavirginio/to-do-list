@@ -14,6 +14,7 @@ input{
 button{
     background-color:rgb(196, 196, 226);
     border-radius:20px;
+    outline: none;
 }
 ul{
     width: 100%;
