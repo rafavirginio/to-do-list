@@ -4,7 +4,7 @@ body{
     justify-content: center;
     background-size: cover;
     background-position: center;
-    background-color: rgb(213, 245, 213);
+    background: linear-gradient(90deg, #bbd6d6, #18cded)
 }
 input{
     width: 80%;
