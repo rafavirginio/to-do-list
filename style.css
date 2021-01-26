@@ -10,6 +10,7 @@ input{
     width: 80%;
     height: 30px;;
     border-radius: 50px;
+    outline: none;
 }
 button{
     background-color:rgb(196, 196, 226);
