@@ -1,2 +1,2 @@
-# to do list
- Lista da tarefas com HTML, CSS e JavaScript
+# To Do List
+ To Do List with HTML,CSS, JS

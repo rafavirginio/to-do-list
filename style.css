@@ -1,0 +1,25 @@
+
+body{
+    text-align: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(213, 245, 213);
+}
+input{
+    width: 80%;
+    height: 30px;;
+    border-radius: 50px;
+}
+button{
+    background-color:rgb(196, 196, 226);
+    border-radius:20px;
+}
+ul{
+    width: 100%;
+    padding:0;
+    list-style-position: inside;
+    list-style-type: decimal;
+
+
+}
