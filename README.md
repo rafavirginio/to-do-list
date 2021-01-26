@@ -5,3 +5,9 @@
 
 
  <img src="screen.gif">
+
+✔ 👨‍💻Tecnologias Utilizadas
+
+- ✔ HTML
+- ✔ CSS
+- ✔ Javascript
